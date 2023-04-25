@@ -1,5 +1,6 @@
 This will make a conflict
 This is second row from Stepan.
+This is third row from Stepan.
 This will make a conflict 1
 This will make a conflict 2
 This will make a conflict 3
